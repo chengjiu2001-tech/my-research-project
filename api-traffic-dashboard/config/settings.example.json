@@ -1,0 +1,11 @@
+{
+  "deepseek_api_key": "YOUR_DEEPSEEK_API_KEY",
+  "kimi_api_key": "YOUR_KIMI_API_KEY",
+  "openai_admin_key": "YOUR_OPENAI_ADMIN_KEY",
+  "sync_interval_minutes": 30,
+  "sync_days": 30,
+  "monthly_budget_cny": 500,
+  "usd_to_cny": "7.20",
+  "exchange_rate_note": "手动参考汇率，请按需更新；非结算汇率",
+  "prices": []
+}
